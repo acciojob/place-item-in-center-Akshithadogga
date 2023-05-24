@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.holder{
+	width:25%;
+	height:25vh;
+	background-color:pink;
+	position:relative;
+	top:200px;
+	margin:auto;
+}
